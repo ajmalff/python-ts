@@ -11,18 +11,17 @@ The other option is to click the green "clone or download" button and then click
 
 ### 3. Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
 
-##### Tasks
+## Tasks
 ----
-## 1- Merge sales data from each month  into one CSV 
+#### 1- Merge sales data from each month  into one CSV 
  > find data in Sales_Data directory
  
-## 2- Read the updated csv - final csv that we just merged in previous step
+#### 2- Read the updated csv - final csv that we just merged in previous step
 
-## 3- Cleanup data
+#### 3- Cleanup data
 
 	a. remove all NaN from the final csv
 	b. Get rid of text in order date column
-	c. Make columns correct type
-	d. check for any other optimization if possible.
+	c. check for any other optimization if possible.
 
 	
